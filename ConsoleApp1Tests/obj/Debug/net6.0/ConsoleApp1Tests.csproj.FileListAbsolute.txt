@@ -208,3 +208,4 @@ D:\my_projects\desafio_dio_test\ConsoleApp1Tests\obj\Debug\net6.0\refint\Console
 D:\my_projects\desafio_dio_test\ConsoleApp1Tests\obj\Debug\net6.0\ConsoleApp1Tests.pdb
 D:\my_projects\desafio_dio_test\ConsoleApp1Tests\obj\Debug\net6.0\ConsoleApp1Tests.genruntimeconfig.cache
 D:\my_projects\desafio_dio_test\ConsoleApp1Tests\obj\Debug\net6.0\ref\ConsoleApp1Tests.dll
+d:\my_projects\desafio_dio_test\ConsoleApp1Tests\obj\Debug\net6.0\ConsoleApp1Tests.sourcelink.json
