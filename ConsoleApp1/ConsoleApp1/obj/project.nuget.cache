@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "17CNGgejfjs=",
+  "success": true,
+  "projectFilePath": "D:\\my_projects\\desafio_dio_test\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.sgi.ms.gov.br/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
